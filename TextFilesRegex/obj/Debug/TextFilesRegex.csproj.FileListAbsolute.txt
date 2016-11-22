@@ -1,0 +1,6 @@
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\TextFilesRegex\TextFilesRegex\bin\Debug\TextFilesRegex.exe.config
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\TextFilesRegex\TextFilesRegex\bin\Debug\TextFilesRegex.exe
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\TextFilesRegex\TextFilesRegex\bin\Debug\TextFilesRegex.pdb
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\TextFilesRegex\TextFilesRegex\obj\Debug\TextFilesRegex.csprojResolveAssemblyReference.cache
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\TextFilesRegex\TextFilesRegex\obj\Debug\TextFilesRegex.exe
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\TextFilesRegex\TextFilesRegex\obj\Debug\TextFilesRegex.pdb
